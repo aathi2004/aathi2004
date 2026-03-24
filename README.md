@@ -13,9 +13,9 @@
 ---
 
 ## 📌 Projects
-- 🔐 OTP Generator  
-- ✅ React To-Do App  
-- 👕 Virtual Outfit Recommender  
+- 🔐 [OTP Generator](https://github.com/aathi2004/otp-generator)
+- ✅ [React To-Do App](https://github.com/aathi2004/todo-app)
+- 👕 [Virtual Outfit Recommender](https://github.com/aathi2004/virtual-tryon-ai)
 
 ---
 
