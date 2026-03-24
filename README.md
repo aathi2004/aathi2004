@@ -7,8 +7,8 @@
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript, React  
-- Python  
-- MySQL  
+- Java, Python  
+- MongoDB, MySQL  
 
 ---
 
@@ -21,8 +21,8 @@
 
 ## 📫 Contact
 📧 aathithya594@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aathithya102004/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/aathithya102004/)
 
 ---
 
-⭐ Passionate about building real-world applications
+🚀 Currently building real-world projects to solve practical problems
