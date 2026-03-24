@@ -1,4 +1,5 @@
 # Hi, I'm Aathithya 👋
+💡 Focused on building scalable and user-friendly web applications
 
 🚀 Aspiring Software Developer  
 💻 React | JavaScript | Python  
