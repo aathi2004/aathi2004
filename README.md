@@ -1,7 +1,7 @@
 # Hi, I'm Aathithya 👋
 💡 Focused on building scalable and user-friendly web applications
 
-🚀 Aspiring Software Developer  
+🚀 Aspiring Software Developer (Fresher)
 💻 React | JavaScript | Java | Python  
 
 ---
