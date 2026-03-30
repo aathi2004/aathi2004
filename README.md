@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript, React  
+- HTML, CSS, JavaScript, React.JS  
 - Java, Python  
 - MongoDB, MySQL  
 
