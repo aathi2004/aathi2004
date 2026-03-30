@@ -22,6 +22,7 @@
 ## 📫 Contact
 📧 aathithya594@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aathithya102004/)
+
 🌐 [Portfolio](https://aathithya-webs.netlify.app/)
 
 ---
