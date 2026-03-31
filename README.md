@@ -26,4 +26,4 @@
 
 ---
 
-🚀 Currently building real-world projects to solve practical problems
+🚀 Currently building real-world projects to solve practical problems.
