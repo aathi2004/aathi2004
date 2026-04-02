@@ -1,4 +1,4 @@
-# Hi, I'm Aathithya S 👋
+# Hi, I'm Aathithya  👋
 
 💡 Focused on building scalable and user-friendly web applications
 🚀 Aspiring Software Developer (Fresher)
