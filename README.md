@@ -7,10 +7,11 @@
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript, React.js, TypeScript, Next.js, Tailwind CSS
-- Java, Python  
-- MongoDB, MySQL, Supabase, PostgreSQL
-- REST API, OAuth, Groq API, Clerk Auth
+- TypeScript, Next.js, React.js, Tailwind CSS
+- PostgreSQL, Supabase, Prisma
+- REST APIs, OAuth, Clerk Auth, Groq API
+- JavaScript, HTML, CSS
+- Python, Java
 
 ---
 
