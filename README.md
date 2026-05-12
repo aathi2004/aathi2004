@@ -7,16 +7,17 @@
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript, React.JS  
+- HTML, CSS, JavaScript, React.js, TypeScript, Next.js, Tailwind CSS
 - Java, Python  
-- MongoDB, MySQL  
+- MongoDB, MySQL, Supabase, PostgreSQL
+- REST API, OAuth, Groq API, Clerk Auth
 
 ---
 
 ## 📌 Projects
-- 👕 [Virtual Outfit Recommender](https://github.com/aathi2004/virtual-tryon-ai)
-- 🔐 [OTP Generator](https://github.com/aathi2004/otp-generator)
-- ✅ [React To-Do App](https://github.com/aathi2004/todo-app)
+- 🤖 [Resumely AI](https://github.com/aathi2004/AI-Resume-Analyzer)
+- 📊 [Client Report](https://github.com/aathi2004/client-report)
+- 🧥 [Virtual Outfit Visualization](https://github.com/aathi2004/virtual-tryon-ai)
 
 ---
 
