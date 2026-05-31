@@ -14,7 +14,7 @@
 const aathithya = {
   name        : "Aathithya S",
   location    : "Dharmapuri, Tamil Nadu, India 🇮🇳",
-  degree      : "B.Tech – AI & Data Science,
+  degree      : "B.Tech – AI & Data Science",
   email       : "aathithya594@gmail.com",
 
   stack: [
