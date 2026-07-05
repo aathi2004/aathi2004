@@ -117,8 +117,8 @@ const aathithya = {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**Resumely AI** — ATS Resume Analyzer SaaS](https://github.com/aathithya-27) | Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Groq API · Stripe · Vercel | 🤖 AI-powered ATS scoring & recruiter feedback · Multi-tier Stripe billing · Role-based auth with Clerk · Interactive analytics dashboard · Live on Vercel |
-| [**Client-Report Engine** — SaaS Reporting Platform](https://github.com/aathithya-27) | Next.js · TypeScript · Prisma · PostgreSQL · Supabase · Stripe · OAuth 2.0 · Vercel | 📊 Multi-tenant platform with **3 subscription tiers** · OAuth 2.0 third-party API connectivity · CRUD with role-based permission scoping · Report versioning & collaborative editing |
+| [**Resumely AI** — ATS Resume Analyzer SaaS](https://github.com/aathi2004/AI-Resume-Analyzer) | Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Groq API · Stripe · Vercel | 🤖 AI-powered ATS scoring & recruiter feedback · Multi-tier Stripe billing · Role-based auth with Clerk · Interactive analytics dashboard · Live on Vercel |
+| [**Client-Report Engine** — SaaS Reporting Platform](https://github.com/aathi2004/client-report) | Next.js · TypeScript · Prisma · PostgreSQL · Supabase · Stripe · OAuth 2.0 · Vercel | 📊 Multi-tenant platform with **3 subscription tiers** · OAuth 2.0 third-party API connectivity · CRUD with role-based permission scoping · Report versioning & collaborative editing |
 
 </div>
 
